@@ -2,7 +2,7 @@
 
 An entry for *Make the best stealth game*.
 
-A top-down stealth game that runs from plain static files in a desktop browser. The program hands it in: it copies `game/` and `screenshots/` to `/output` and writes the dossier the judge reads.
+**MOTH & KEY** is a top-down stealth game in three nights. Take the keycard from its desk, read the guards' torchlight, crouch through shadow, and reach the green door unseen. WASD or arrows to move, hold Shift to crouch, left-click to throw a pebble. Every room, cone and sound is drawn and played from code, from plain static files in a desktop browser. The program hands it in: it copies `game/` and `screenshots/` to `/output` and writes the dossier the judge reads.
 
 Play it with `node serve.ts`, then open http://localhost:8080.
 
